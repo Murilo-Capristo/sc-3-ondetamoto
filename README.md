@@ -14,8 +14,8 @@
 
 ## 🚀 Como Rodar o Projeto?
 
-- git clone https://github.com/Murilo-Capristo/mobile-ondetamoto.git
-- cd mobile-ondetamoto
+- git clone https://github.com/Murilo-Capristo/sc-3-ondetamoto.git
+- cd sc-3-ondetamoto
 - npm i
 - npx expo start
 
