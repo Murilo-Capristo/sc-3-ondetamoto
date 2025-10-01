@@ -70,7 +70,7 @@ src/
 │       ├── HeaderReduzida.tsx
 │       └── HeaderTemplate.tsx
 └── theme.ts
-
+```
 ### 🔹 Outros
 
 - RFID tags (ainda não simuláveis no app)
